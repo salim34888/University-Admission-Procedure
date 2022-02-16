@@ -4,6 +4,7 @@ It takes a lot of hard work to enroll in the university of your dreams. Although
 Input:
 > 4
 
+```
 Output:
 Biotech
 Randon Bradhust 3.68
@@ -34,3 +35,4 @@ Darrah Smyth 3.89
 Giovanna Keel 3.25
 Cressie Gillespie 3.10
 Fatemah Desavigny 3.00
+```
